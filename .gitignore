@@ -1,0 +1,8 @@
+*.code-workspace
+*.mmd
+*.md
+*.png
+*.pdf
+*.svg
+*.jpg
+.DS_Store
