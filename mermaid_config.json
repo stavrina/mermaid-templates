@@ -1,8 +1,10 @@
 {
     "startOnLoad": true,
+    "look": "classic",
     "flowchart": {
       "useMaxWidth": false,
-      "htmlLabels": true
+      "htmlLabels": true,
+      "curve": "linear"
     },
     "sequence": {
       "height": 40,
@@ -10,6 +12,6 @@
       "mirrorActors": false,
       "bottomMarginAdj": 1
     },
-    "theme": "neutral",
+    "theme": "default",
     "themeCSS": ""
   }
