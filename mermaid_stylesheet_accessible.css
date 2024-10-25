@@ -33,6 +33,8 @@
     fill: none !important;
 }
 
+/* Comment out when rendering PDF and PNG */
+
 foreignObject span.edgeLabel {
     border-color: black !important;
     background-color: none !important;
@@ -52,3 +54,5 @@ g.edgeLabel g.label foreignObject {
     height: 4% !important;
 
 }
+
+/* END Comment out when rendering PDF and PNG */
